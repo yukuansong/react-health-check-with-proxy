@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Create an app for health check with ReactJS and nginx proxy server
 
 ## Available Scripts
 
